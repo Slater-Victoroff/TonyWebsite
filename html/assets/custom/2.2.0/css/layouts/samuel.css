@@ -1,6 +1,6 @@
 /* Main Photo */
 .photo-01 {
-  background: url("../../images/layouts/samuel/userpics/userpic01.jpg");
+  background: url("../../images/tony.png");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -35,4 +35,10 @@
   background-position: center;
   background-size: cover; }
 
-/*# sourceMappingURL=samuel.css.map */
+.name {
+    background-color: #1278CC;
+}
+
+.position {
+    background-color: #C94138;
+}
