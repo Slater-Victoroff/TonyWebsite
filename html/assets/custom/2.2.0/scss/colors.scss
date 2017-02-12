@@ -88,29 +88,6 @@ $bg-texture-01: url('../images/backgrounds/dark_fish_skin.png');
 .color31 {color: $color31 !important;}
 .color32 {color: $color32 !important;}
 
-
-.color-red {color: $red !important;}
-.color-orange {color: $orange !important;}
-.color-green {color: $green !important;}
-.color-blue {color: $blue !important;}
-.color-darkblue {color: $darkblue !important;}
-.color-cyan {color: $cyan !important;}
-.color-yellow {color: $yellow !important;}
-.color-rose {color: $rose !important;}
-.color-darkrose {color: darken($rose, 6%) !important; }
-
-
-.red {background-color: $red !important;}
-.orange {background-color: $orange !important;}
-.green {background-color: $green !important;}
-.blue {background-color: $blue !important;}
-.darkblue {background-color: $darkblue !important;}
-.cyan {background-color: $cyan !important;}
-.yellow {background-color: $yellow !important;}
-.l-grey {background-color: $l-grey !important;}
-.grey {background-color: $grey !important;}
-
-
 /*Font/link Colors */
 .fontcolor-regular, .fontcolor-regular a {color: $color30 !important;;}
 .fontcolor-invert, .fontcolor-invert a {color: $color01 !important;}
